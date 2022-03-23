@@ -1,4 +1,4 @@
 # test2
-xiaomi.srv
+youpin.srv
 password=123456
 ABKing test
